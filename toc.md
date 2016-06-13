@@ -4,4 +4,4 @@
 - [《flexbox 舞娘》](haoqicat.com/flexbox-dancer) 6月6号
 - [《驾驭命令行怪兽》](http://haoqicat.com/ride-cli-monster) 6月8号
 - [《Nodejs 乐高》](http://haoqicat.com/nodejs-lego) 6月13号
-- 《Nodejs 乐高》课程，6月14号会继续添加内容
+- 《Nodejs 乐高》课程，6月15号还会继续添加内容
