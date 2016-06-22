@@ -4,4 +4,5 @@
 - [《flexbox 舞娘》](haoqicat.com/flexbox-dancer) 6月6号
 - [《驾驭命令行怪兽》](http://haoqicat.com/ride-cli-monster) 6月8号
 - [《Nodejs 乐高》](http://haoqicat.com/nodejs-lego) 6月13号
-- [《Atom 爱上 JS》](http://haoqicat.com/atom-love-js) 6月17号 //目前还在开发，明后天会继续更新
+- [《Atom 爱上 JS》](http://haoqicat.com/atom-love-js) 6月17号
+- 《Meteor-React 小鸟》6月23号开放
