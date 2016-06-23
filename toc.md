@@ -5,4 +5,4 @@
 - [《驾驭命令行怪兽》](http://haoqicat.com/ride-cli-monster) 6月8号
 - [《Nodejs 乐高》](http://haoqicat.com/nodejs-lego) 6月13号
 - [《Atom 爱上 JS》](http://haoqicat.com/atom-love-js) 6月17号
-- 《Meteor-React 小鸟》6月23号开放
+- [《Meteor-React 小鸟》](http://haoqicat.com/meteor-react-bird) 6月23号
