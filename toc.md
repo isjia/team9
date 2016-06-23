@@ -6,3 +6,4 @@
 - [《Nodejs 乐高》](http://haoqicat.com/nodejs-lego) 6月13号
 - [《Atom 爱上 JS》](http://haoqicat.com/atom-love-js) 6月17号
 - [《Meteor-React 小鸟》](http://haoqicat.com/meteor-react-bird) 6月23号
+- 《React 极简教程》6月25号开放
