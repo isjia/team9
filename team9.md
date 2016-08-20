@@ -5,5 +5,5 @@
 - [《驾驭命令行怪兽》](http://haoqicat.com/ride-cli-monster) 8月8号
 - [《Nodejs 乐高》](http://haoqicat.com/nodejs-lego) 8月13号
 - [《Atom 爱上 JS》](http://haoqicat.com/atom-love-js) 8月17号
-- [《Meteor-React 小鸟》](http://haoqicat.com/meteor-react-bird) 8月25号
+- [《Meteor-React 小鸟》](http://haoqicat.com/meteor-react-bird) 8月20号
 - 后续课程 8月25号 放出
