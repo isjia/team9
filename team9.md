@@ -7,4 +7,5 @@
 - [《Atom 爱上 JS》](http://haoqicat.com/atom-love-js) 8月17号
 - [《Meteor-React 小鸟》](http://haoqicat.com/meteor-react-bird) 8月20号
 - [《React 婴儿》](http://haoqicat.com/react-baby) 8月25号
-- 后续课程 8月28号 放出
+- [《 Git 北京》](http://haoqicat.com/gitbeijing) 8月28号
+- 后续课程 8月2号 放出
