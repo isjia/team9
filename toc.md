@@ -11,3 +11,4 @@
 - [《Webpack-React 鼹鼠》](http://haoqicat.com/webpack-react-mole) 7月1号
 - [《塔顶上的 Redux 》](http://haoqicat.com/redux-tower) 7月24号
 - [《Meteor 和 Express Ajax 思路对比》](http://haoqicat.com/meteor-express-ajax) 8月18号
+- [《Chrome 开发者工具》](http://haoqicat.com/chrome-devtools) 8月29号
