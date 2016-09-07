@@ -9,4 +9,5 @@
 - [《React 婴儿》](http://haoqicat.com/react-baby) 8月25号
 - [《 Git 北京》](http://haoqicat.com/gitbeijing) 8月28号
 - [《Webpack-React 鼹鼠》](http://haoqicat.com/webpack-react-mole) 9月2号
-- 后续课程 9月7号 放出
+- [《塔顶上的 Redux 》](http://haoqicat.com/redux-tower) 9月7号
+- 后续课程 9月14号 放出
