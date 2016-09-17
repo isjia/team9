@@ -11,4 +11,5 @@
 - [《Webpack-React 鼹鼠》](http://haoqicat.com/webpack-react-mole) 9月2号
 - [《塔顶上的 Redux 》](http://haoqicat.com/redux-tower) 9月7号
 - [《Meteor 和 Express Ajax 思路对比》](http://haoqicat.com/meteor-express-ajax) 9月14号
-- 后续课程 9月19号 放出
+- [《小白变怪兽》](http://haoqicat.com/bianguaishou) 9月17号
+- 后续课程 9月23号 放出
