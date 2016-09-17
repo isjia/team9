@@ -82,3 +82,24 @@ Github 网页操作
 
 ### [合并分支](http://haoqicat.com/gitbeijing/5-2-merge)
 
+### [Github 工作流](http://haoqicat.com/gitbeijing/5-3-github-flow)
+
+Github 团队协作流程 [Github Flow](https://guides.github.com/introduction/flow/index.html), [中文版](http://gitbeijing.com/flow/)
+
+### [贡献开源项目的流程](http://haoqicat.com/gitbeijing/5-4-fork-flow)
+
+[快速 PR](https://github.com/blog/1945-quick-pull-requests)
+
+## 第六章：更多 Github 技巧
+
+### [Issue 的使用](http://haoqicat.com/gitbeijing/6-1-issues)
+
+### [Github Pages 搭建免费网站](http://haoqicat.com/gitbeijing/6-2-pages)
+
+### [更多 Github 的秘密](http://haoqicat.com/gitbeijing/6-3-more)
+
+## 第七章：Goodbye
+
+### [更多学习建议](http://haoqicat.com/gitbeijing/7-1-bye)
+
+
