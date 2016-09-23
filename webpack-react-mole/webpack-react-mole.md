@@ -29,4 +29,49 @@ Module Bundler: bundle.js
 
 ## 第二章 前端路由和组件库的使用
 
+### [使用 material-ui 的 Tabs 组件](http://haoqicat.com/webpack-react-mole/6-material-ui-tabs)
+
+[Material UI](http://www.material-ui.com)
+
+[全部代码在这里](https://github.com/happypeter/react-transform-boilerplate/commit/43eeb6f697619f848b6db2de07ffd3f14f2013ef)
+
+[Material UI Tabs 的文档](http://www.material-ui.com/#/components/tabs)
+
+### [使用 react-router 实现“多页面”的单页面应用](http://haoqicat.com/webpack-react-mole/7-react-router)
+
+[全部代码](http://haoqicat.com/webpack-react-mole/7-react-router)
+
+### [react 的 State 以及 Lifecycle Methods](http://haoqicat.com/webpack-react-mole/8-react-state)
+
+[全部代码](https://github.com/happypeter/react-transform-boilerplate/commit/2229cd28f5157c18ededfde445b8f9a7f3314aa3)
+
+### [React 下实现 media query](http://haoqicat.com/webpack-react-mole/9-react-media-query)
+
+[全部代码](https://github.com/happypeter/react-transform-boilerplate/commit/04776f0ad52e3c280413a970712acf6f46811aac)
+
+### [添加更多组件进来](http://haoqicat.com/webpack-react-mole/10-m-components)
+
+[全部代码](https://github.com/happypeter/react-transform-boilerplate/commit/d0fc36e1baaa0492e2dc95410e0000c5a6cf5e8c)
+
+## 第三章 Ajax 请求第三方 API
+
+### [表单提交](http://haoqicat.com/webpack-react-mole/11-react-form)
+
+[全部代码](https://github.com/happypeter/react-transform-boilerplate/commit/ed75c180fab5be386639b09a8d9a405dd7d210e6)
+
+### [Ajax 请求](https://github.com/happypeter/react-transform-boilerplate/commit/ed75c180fab5be386639b09a8d9a405dd7d210e6)
+
+[react ajax](https://github.com/happypeter/react-transform-boilerplate/commit/5c7c113ea1aac09f998a8aa9f0a227cc67828e41)
+
+### [完成所有代码](http://haoqicat.com/webpack-react-mole/13-final-code)
+
+[全部代码](https://github.com/happypeter/react-transform-boilerplate/commit/de4e3af9ae52e380377f7ceb2f8caf4e62181e5b)
+
+## 第四章 部署
+
+### [部署项目到服务器](http://haoqicat.com/webpack-react-mole/14-deploy)
+
+
+
+
 
