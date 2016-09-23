@@ -19,3 +19,14 @@ Webpack 基本原理以及各个实用配置技巧，ES6 模块在 Webpack-React
 
 Module Bundler: bundle.js
 
+### [使用 Webpack 来处理 sass](http://haoqicat.com/webpack-react-mole/3-webpack-sass-loader)
+
+### [懒汉的 ES6 模块](http://haoqicat.com/webpack-react-mole/4-es6-module)
+
+### [自制 react 组件](http://haoqicat.com/webpack-react-mole/5-react-component)
+
+[全部代码](https://github.com/happypeter/react-transform-boilerplate/commit/8f6aae291897dea60917744a1abe633022b1cd69)
+
+## 第二章 前端路由和组件库的使用
+
+
