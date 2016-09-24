@@ -13,4 +13,4 @@
 - [《Meteor 和 Express Ajax 思路对比》](http://haoqicat.com/meteor-express-ajax) 9月14号
 - [《小白变怪兽》](http://haoqicat.com/bianguaishou) 9月17号
 - [《Chrome 开发者工具》](http://haoqicat.com/chrome-devtools) 9月23号
-- 后续课程《JS 面向对象之旅》完工后放出
+- 后续课程《JS 面向对象之旅》9月26号发布
