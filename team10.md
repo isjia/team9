@@ -2,7 +2,6 @@
 
 - [《小白变怪兽》](http://haoqicat.com/bianguaishou) 课程免费
 
-以下八门课程是 10月1号开放的
 - [《驾驭命令行怪兽》](http://haoqicat.com/ride-cli-monster)
 - [《Atom 爱上 JS》](http://haoqicat.com/atom-love-js)
 - [《flexbox 舞娘》](http://haoqicat.com/flexbox-dancer)
@@ -11,6 +10,7 @@
 - [《 Git 北京》](http://haoqicat.com/gitbeijing)
 - [《Nodejs 乐高》](http://haoqicat.com/nodejs-lego)
 - [《JS 面向对象之旅》](http://haoqicat.com/o-o-js)
+以上八门课程是 10月1号开放的
 
 - [《React 婴儿》](http://haoqicat.com/react-baby) 10月17号
 - [《Webpack-React 鼹鼠》](http://haoqicat.com/webpack-react-mole) 10月21号
