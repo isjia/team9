@@ -17,4 +17,4 @@
 - [《Meteor-React 小鸟》](http://haoqicat.com/meteor-react-bird) 10月31号
 - [《塔顶上的 Redux 》](http://haoqicat.com/redux-tower) 11月15号
 - [《Meteor 和 Express Ajax 思路对比》](http://haoqicat.com/meteor-express-ajax) 12月2号
-- 后续课程 [《Express 极简 API》](http://haoqicat.com/react-express-api) 12月6号
+- 后续课程 [《Express 极简 API》](http://haoqicat.com/react-express-api) 12月6号开放
