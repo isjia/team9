@@ -18,4 +18,5 @@
 - [《塔顶上的 Redux 》](http://haoqicat.com/redux-tower) 11月15号
 - [《Meteor 和 Express Ajax 思路对比》](http://haoqicat.com/meteor-express-ajax) 12月2号
 - [《Express 极简 API》](http://haoqicat.com/react-express-api) 12月2号
-- 《React 手牵手》课程12月3号开放
+- [《React 手牵手》](http://haoqicat.com/hand-in-hand-react)课程12月3号开放
+-《GraphQL 婴儿》课程12月10号开放   
