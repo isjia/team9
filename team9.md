@@ -15,4 +15,4 @@
 - [《Chrome 开发者工具》](http://haoqicat.com/chrome-devtools) 9月23号
 - [《JS 面向对象之旅》](http://haoqicat.com/o-o-js)9月26号发布
 - [《Express 极简 API》](http://haoqicat.com/react-express-api)10月25号
-- 《React 手牵手》课程12月3号开放
+- [《React 手牵手》](http://haoqicat.com/hand-in-hand-react)课程12月3号开放
