@@ -89,3 +89,45 @@ header.payload.signature
 
 > 16-react-router.mp4
 
+## 第四章：前端用户登录功能实现
+
+### [编写用户登录表单](http://haoqicat.com/hand-in-hand-react/17-login-form)
+
+> 17-login-form.mp4
+
+### [使用 axios 请求后端用户认证接口](http://haoqicat.com/hand-in-hand-react/18-submit-login-form)
+
+> 18-submit-login-form.mp4
+
+## 第五章：Redux 大显神通
+
+### [创建 Redux Store 传递给 React 组件](http://haoqicat.com/hand-in-hand-react/19-redux-store)
+
+> 19-redux-store.mp4
+
+### [创建与用户认证相关的 Redux Reducer](http://haoqicat.com/hand-in-hand-react/20-redux-reducer)
+
+> 20-redux-reducer.mp4
+
+### [借助 Redux Thunk 实现异步 Action Creator](http://haoqicat.com/hand-in-hand-react/21-redux-action)
+
+> 21-redux-action.mp4
+
+### [React 组件连接 React Store 分发 Redux Action](http://haoqicat.com/hand-in-hand-react/22-react-redux)
+
+> 22-react-redux.mp4
+
+### [前端导航栏体现用户登录状态](http://haoqicat.com/hand-in-hand-react/23-header-state)
+
+> 23-header-state.mp4
+
+### [前端实现用户退出登录功能](http://haoqicat.com/hand-in-hand-react/24-logout)
+
+> 24-logout.mp4
+
+## 第六章：用户注册功能实现
+
+
+
+
+
