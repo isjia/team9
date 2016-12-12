@@ -127,6 +127,100 @@ header.payload.signature
 
 ## 第六章：用户注册功能实现
 
+### [后端编写用户注册接口](http://haoqicat.com/hand-in-hand-react/25-new-user-api)
+
+> 25-new-user-api.mp4
+
+### [前端编写用户注册表单](http://haoqicat.com/hand-in-hand-react/26-signup-form)
+
+> 26-signup-form.mp4
+
+### [前端请求后端 API 完成注册](http://haoqicat.com/hand-in-hand-react/27-signup-done)
+
+> 27-signup-done.mp4
+
+## 第七章：添加管理员功能
+
+### [管理员功能实现](http://haoqicat.com/hand-in-hand-react/28-dashboard)
+
+> 28-dashboard.mp4
+
+### [服务器端实现添加新文章接口](http://haoqicat.com/hand-in-hand-react/29-create-post-api)
+
+> 29-create-post-api.mp4
+
+### [后端限定添加新文章接口的访问权限](http://haoqicat.com/hand-in-hand-react/30-request-auth)
+
+> 30-request-auth.mp4
+
+### [前端实现添加新文章组件](http://haoqicat.com/hand-in-hand-react/31-new-post)
+
+> 31-new-post.mp4
+
+### [前端实现写文章功能](http://haoqicat.com/hand-in-hand-react/32-posts-state)
+
+> 32-posts-state.mp4
+
+### [前端展示新添加的文章](http://haoqicat.com/hand-in-hand-react/33-show-posts)
+
+> 33-show-posts.mp4
+
+### [从服务器端读取所有文章](http://haoqicat.com/hand-in-hand-react/34-show-posts-api)
+
+> 34-show-posts-api.mp4
+
+## 第八章：上传图片功能
+
+### [上传图片组件](http://haoqicat.com/hand-in-hand-react/35-upload-image)
+
+> 35-upload-image.mp4
+
+### [图片保存到服务器并在前端展示出来](http://haoqicat.com/hand-in-hand-react/36-show-image)
+
+> 36-show-image.mp4
+
+## 第九章：单篇文章操作
+
+### [文章操作组件](http://haoqicat.com/hand-in-hand-react/37-post-action)
+
+> 37-post-action.mp4
+
+### [显示文章详情](http://haoqicat.com/hand-in-hand-react/38-show-post)
+
+> 38-show-post.mp4
+
+### [实现编辑文章表单组件](http://haoqicat.com/hand-in-hand-react/39-update-post)
+
+> 39-update-post.mp4
+
+### [完成更新文章功能](http://haoqicat.com/hand-in-hand-react/40-update-post-done)
+
+> 40-update-post-done.mp4
+
+### [实现删除文章功能](http://haoqicat.com/hand-in-hand-react/41-delete-post)
+
+> 41-delete-post.mp4
+
+## 第十章：部署上线
+
+### [PM2 部署项目](http://haoqicat.com/hand-in-hand-react/42-deploy)
+
+> 42-deploy.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
