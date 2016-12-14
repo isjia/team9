@@ -13,8 +13,8 @@
 - [《Meteor 和 Express Ajax 思路对比》](http://haoqicat.com/meteor-express-ajax) 9月14号
 - [《小白变怪兽》](http://haoqicat.com/bianguaishou) 9月17号
 - [《Chrome 开发者工具》](http://haoqicat.com/chrome-devtools) 9月23号
-- [《JS 面向对象之旅》](http://haoqicat.com/o-o-js)9月26号发布
-- [《Express 极简 API》](http://haoqicat.com/react-express-api)10月25号
+- <del>[《JS 面向对象之旅》](http://haoqicat.com/o-o-js)9月26号发布</del>
+- <del>[《Express 极简 API》](http://haoqicat.com/react-express-api)10月25号</del>
 - <del>[《React 手牵手》](http://haoqicat.com/hand-in-hand-react)课程12月3号开放</del>
 
 课程将于12月24号结束
