@@ -98,4 +98,15 @@ monitor.Event
 
 > 7-1-device-mode.mp4
 
+### [远程调试实际设备](http://haoqicat.com/chrome-devtools/7-2-real-device)
+
+> 7-2-real-device.mp4
+
+## 第八章 Goodbye
+
+### [下一步的学习建议](http://haoqicat.com/chrome-devtools/8-1-more)
+
+> 8-1-more.mp4
+
+*The End*
 
