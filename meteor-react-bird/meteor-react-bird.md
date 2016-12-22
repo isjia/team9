@@ -57,4 +57,62 @@
 
 ## 第四章：Inline Style 专题
 
+### [Inline Style 攻略](http://haoqicat.com/meteor-react-bird/12-inline-style-tips)
+
+> 12-inline-style-tips.mp4
+
+### [修改导航栏的样式](http://haoqicat.com/meteor-react-bird/13-modify-tabs-style)
+
+> 13-modify-tabs-style.mp4
+
+### [内联样式中使用媒体查询](http://haoqicat.com/meteor-react-bird/14-media-queries)
+
+> 14-media-queries.mp4
+
+### [响应式导航栏](http://haoqicat.com/meteor-react-bird/15-app-drawer)
+
+> 15-app-drawer.mp4
+
+### [样式重构，全局样式](http://haoqicat.com/meteor-react-bird/16-style-refactor)
+
+> 16-style-refactor.mp4
+
+## 第五章：用户认证系统
+
+### [用户注册](http://haoqicat.com/meteor-react-bird/17-signup)
+
+> 17-signup.mp4
+
+### [登录和登出](http://haoqicat.com/meteor-react-bird/18-login-logout)
+
+> 18-login-logout.mp4
+
+## 第六章：基本数据读写操作
+
+### [三条线路上的数据读写](http://haoqicat.com/meteor-react-bird/19-get-data)
+
+> 19-get-data.mp4
+
+## 第七章：聊天室
+
+### [提交聊天信息的表单](http://haoqicat.com/meteor-react-bird/20-message-form)
+
+> 20-message-form.mp4
+
+### [显示聊天信息](http://haoqicat.com/meteor-react-bird/21-message-list)
+
+> 21-message-list.mp4
+
+### [显示在线人数和页面转圈加载效果](http://haoqicat.com/meteor-react-bird/22-online-user)
+
+> 22-online-user.mp4
+
+## 第八章：部署
+
+### [部署应用到服务器](http://haoqicat.com/meteor-react-bird/23-deploy)
+
+> 23-deploy.mp4
+
+*The End*
+
 
