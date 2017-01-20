@@ -1,8 +1,28 @@
 # [React 婴儿](http://haoqicat.com/react-baby)
 
+这么可不讲 npm/wepack/api/reudx 等，专注介绍React本身的核心概念。学习React的属性、状态机制、生命周期、事件响应等核心知识。
+
 ## 第一章：概述
 
 ### [React 游戏规则改变着](http://haoqicat.com/react-baby/1-react-show)
+
+一切皆组件：组件把数据翻译成UI。数据通过组件的 props 属性传入，组件资深状态通过 state 状态值来控制。数据有变化，组件马上自动刷新。
+
+**React 组件化带来的颠覆：**
+
+- 分离 html/CSS
+- 非侵入式 js
+- 以 ploymer 为代表的传统组件
+- jQuery
+- 模板及内嵌语言
+- MVC
+- CSS
+- Bootstrap
+
+**React 带来的新思路**
+
+- 提高内聚：用于实现统一功能的代码将被放置到一起
+- 降低外联：不因为其他组件的失效而影响
 
 ## 第二章：关键技术点
 
